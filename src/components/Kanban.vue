@@ -1,13 +1,15 @@
 <template>
-  
+  <div class="kanban">Kanban</div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
+.kanban {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(210, 162, 255);
+}
 </style>
